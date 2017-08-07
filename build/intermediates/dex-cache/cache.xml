@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\gvige\.android\build-cache\650c7a9d502c399e7b4e566d523d4bcb88f74819\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a29c3d8cf50b8c8ef524bd56880718d52992aed0">
+        <dex dex="D:\source\CaptureScreen\Application\build\intermediates\pre-dexed\debug\classes_a5c54b27935b5c78884df07bac82038ea11ada22.jar" />
+    </item>
+
+</items>
