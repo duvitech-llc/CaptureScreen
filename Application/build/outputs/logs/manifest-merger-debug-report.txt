@@ -78,7 +78,7 @@ MERGED from [CaptureScreen:darwin_hud-release:unspecified] C:\Users\gvige\.andro
 	android:allowBackup
 		ADDED from D:\source\CaptureScreen\Application\src\main\AndroidManifest.xml:34:18-44
 	android:icon
-		ADDED from D:\source\CaptureScreen\Application\src\main\AndroidManifest.xml:36:9-45
+		ADDED from D:\source\CaptureScreen\Application\src\main\AndroidManifest.xml:36:9-43
 	android:theme
 		ADDED from D:\source\CaptureScreen\Application\src\main\AndroidManifest.xml:37:9-40
 activity#com.example.android.screencapture.MainActivity

@@ -1,4 +1,4 @@
-#Mon Aug 07 00:01:36 EDT 2017
+#Mon Aug 07 16:14:07 EDT 2017
 base.0=D\:\\source\\CaptureScreen\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=D\:\\source\\CaptureScreen\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
