@@ -4,7 +4,15 @@
         "source": "D:\\source\\CaptureScreen\\Application\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
+        "merged": "D:\\six15_source\\CaptureScreen\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tile.9.png",
+        "source": "D:\\six15_source\\CaptureScreen\\Application\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    },
+    {
         "merged": "D:\\source\\CaptureScreen\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\tile.9.png",
         "source": "D:\\source\\CaptureScreen\\Application\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+    },
+    {
+        "merged": "D:\\six15_source\\CaptureScreen\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "D:\\six15_source\\CaptureScreen\\Application\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     }
 ]

@@ -2,5 +2,9 @@
     {
         "merged": "D:\\source\\CaptureScreen\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
         "source": "D:\\source\\CaptureScreen\\Application\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\six15_source\\CaptureScreen\\Application\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\six15_source\\CaptureScreen\\Application\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     }
 ]

@@ -37,6 +37,7 @@ import android.os.Handler;
 import android.os.HandlerThread;
 import android.os.IBinder;
 import android.util.DisplayMetrics;
+import android.view.Display;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.Surface;
@@ -248,6 +249,15 @@ public class MainActivity extends SampleActivityBase {
             mResultData = savedInstanceState.getParcelable(STATE_RESULT_DATA);
         }
 
+        DisplayManager dm = (DisplayManager)this.getSystemService(Context.DISPLAY_SERVICE);
+        if(dm != null){
+            Display disp[] = dm.getDisplays();
+            Log.d(TAG, String.format("Found %d displays attached", disp.length));
+            for(int x=0; x<disp.length; x++){
+
+            }
+        }
+
         setContentView(R.layout.activity_main);
     }
 
@@ -431,7 +441,7 @@ public class MainActivity extends SampleActivityBase {
                 mWidth + "x" + mHeight +
                 " (RGBX 8888)");
 
-        imageReader = ImageReader.newInstance(mWidth, mHeight, PixelFormat.RGBX_8888, FRAMERATE);
+        imageReader = ImageReader.newInstance(mWidth, mHeight, PixelFormat.RGBA_8888, FRAMERATE);
         Surface readerSurface = imageReader.getSurface();
 
         mVirtualDisplay = mMediaProjection.createVirtualDisplay("SIX-15 HUD",

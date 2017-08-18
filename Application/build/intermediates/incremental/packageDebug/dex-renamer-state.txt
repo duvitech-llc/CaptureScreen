@@ -1,4 +1,7 @@
-#Mon Aug 07 16:14:07 EDT 2017
-base.0=D\:\\source\\CaptureScreen\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Fri Aug 18 10:48:56 EDT 2017
+base.0=D\:\\six15_source\\CaptureScreen\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3bca2f8f096f53d139dc14cb9f800d27879255e1
+renamed.1=classes2.dex
 renamed.0=classes.dex
-file.0=D\:\\source\\CaptureScreen\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.1=D\:\\six15_source\\CaptureScreen\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d9bcb42038cea1b2e22b9a2a728d1523acbd00c4\\classes.dex
+base.1=D\:\\six15_source\\CaptureScreen\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d9bcb42038cea1b2e22b9a2a728d1523acbd00c4
+file.0=D\:\\six15_source\\CaptureScreen\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_3bca2f8f096f53d139dc14cb9f800d27879255e1\\classes.dex

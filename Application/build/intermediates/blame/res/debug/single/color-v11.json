@@ -4,7 +4,15 @@
         "source": "C:\\Users\\gvige\\.android\\build-cache\\ecab38a6ea457b96658f55c29bcc46543706eb86\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
+        "merged": "D:\\six15_source\\CaptureScreen\\Application\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\gvige\\.android\\build-cache\\88a94376632414794c59c26d93ce70d6a1fd826a\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
         "merged": "D:\\source\\CaptureScreen\\Application\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
         "source": "C:\\Users\\gvige\\.android\\build-cache\\ecab38a6ea457b96658f55c29bcc46543706eb86\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\six15_source\\CaptureScreen\\Application\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\gvige\\.android\\build-cache\\88a94376632414794c59c26d93ce70d6a1fd826a\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     }
 ]
